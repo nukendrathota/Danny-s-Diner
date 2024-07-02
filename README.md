@@ -411,3 +411,6 @@ ORDER BY customer_id ASC, order_date ASC
 | C           | 2021-01-01  | ramen        | 12    | N      | NULL |
 | C           | 2021-01-01  | ramen        | 12    | N      | NULL |
 | C           | 2021-01-07  | ramen        | 12    | N      | NULL |
+
+## Bonus
+I have also solved this challenge using Tableau Prep. You can find the Tableau Prep Solution here.
