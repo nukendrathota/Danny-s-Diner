@@ -413,4 +413,4 @@ ORDER BY customer_id ASC, order_date ASC
 | C           | 2021-01-07  | ramen        | 12    | N      | NULL |
 
 ## Bonus
-I have also solved this challenge using Tableau Prep. You can find the Tableau Prep Solution here.
+I have also solved this challenge using Tableau Prep. You can find the Tableau Prep Solution [here](https://github.com/nukendrathota/Danny-s-Diner/tree/0ec81359ee371e5f566738c65d428a53733421d8/tableau%20prep).
